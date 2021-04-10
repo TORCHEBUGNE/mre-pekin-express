@@ -1,0 +1,42 @@
+{
+    "backpack": {
+        "displayName": "Sac a dos",
+        "resourceName": "backpack.glb",
+        "scale": {
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.5
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": -0.025,
+            "y": -0.07,
+            "z": 0.04
+        },
+        "attachPoint": "spine-top"
+    },
+    "greenCar": {
+        "displayName": "Voiture verte",
+        "resourceName": "greenCar.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    }
+}
