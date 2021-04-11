@@ -1,4 +1,8 @@
 {
+    "none": {
+        "displayName": "Supprimer",
+        "attachPoint": "spine-top"
+    },
     "backpack": {
         "displayName": "Sac a dos",
         "resourceName": "backpack.glb",
@@ -22,6 +26,166 @@
     "greenCar": {
         "displayName": "Voiture verte",
         "resourceName": "greenCar.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    },
+    "largeTruckWhite": {
+        "displayName": "Camion blanc",
+        "resourceName": "largeTruckWhite.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    },
+    "limoBlack": {
+        "displayName": "Limousine noire",
+        "resourceName": "limoBlack.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    },
+    "longCarBlue": {
+        "displayName": "Break bleu",
+        "resourceName": "longCarBlue.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    },
+    "mailTruck": {
+        "displayName": "Camion postal",
+        "resourceName": "mailTruck.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    },
+    "red4x4": {
+        "displayName": "4x4 rouge",
+        "resourceName": "red4x4.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    },
+    "sedanBlack": {
+        "displayName": "Berline noire",
+        "resourceName": "sedanBlack.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    },
+    "towRed": {
+        "displayName": "Dépanneuse rouge",
+        "resourceName": "towRed.glb",
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 180,
+            "z": 0
+        },
+        "position": {
+            "x": 0,
+            "y": -1.7,
+            "z": 0
+        },
+        "attachPoint": "spine-top"
+    },
+    "vanYellow": {
+        "displayName": "Van jaune",
+        "resourceName": "vanYellow.glb",
         "scale": {
             "x": 1,
             "y": 1,
